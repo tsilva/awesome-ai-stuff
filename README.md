@@ -1,2 +1,23 @@
 # awesome-ai-stuff
-A curated list of AI tools for different use cases
+
+## Images
+
+### Images - Generate
+
+- Midjourney
+
+### Images - Edit
+
+- Midjourney
+
+## Audio
+
+### Audio - Generate
+
+- NotebookLM - Generate podcasts
+
+## Video
+
+### Video - Motion Capture
+
+- Runway Act-one
